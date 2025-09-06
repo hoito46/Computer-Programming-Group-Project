@@ -16,8 +16,8 @@ Teams Members
 > Yip Chun Ting Justin <br>
 > Ng Cheuk Hin Hinson
 
-Usage & Copyright
-This project is part of our academic coursework and is provided **for reference only** <br>
-Any reproduction, modification, distribution, or use of the code, in whole or in part, is **strictly prohibited** without explicit permission from team member(s).
+Usage & Copyright  
+> This project is part of our academic coursework and is provided **for reference only**. <br>
+> Any reproduction, modification, or use of the code, in whole or in part, is **strictly prohibited** without permission from team member(s).
 
 If you have any questions or requests regarding this project, feel free to contact me via email at Email: lamto087@gmail.com.
